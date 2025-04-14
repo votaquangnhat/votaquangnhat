@@ -8,7 +8,7 @@
 
 - 🎓 I'm a 3rd-year student at **Hanoi University of Science and Technology (HUST)**
 - 📘 My major is **Data Science and Artificial Intelligence (DSAI)**
-- 🤖 Currently diving deeper into **Deep Learning** and **Natural Language Processing**
+- 🤖 Currently diving deeper into **Machine Learning**, **Deep Learning** and **Natural Language Processing**
 - 📝 I occasionally write about what I’m learning on my [**personal blog**](https://votaquangnhat.github.io/). Feel free to check it out!
 
 ## 🚀 Technologies & Tools
@@ -30,7 +30,6 @@
 ## 🌐 Connect with Me
 
 - 📫 Email: votaquangnhat1104@gmail.com
-- 📝 Blog: [votaquangnhat.github.io](https://votaquangnhat.github.io/)
 - 💬 Facebook: [facebook.com/votaquangnhat](https://www.facebook.com/votaquangnhat)
 <!-- - 💼 LinkedIn: *(optional if you have one)* -->
 
