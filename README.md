@@ -1,7 +1,10 @@
 <h1 align="center">Hi there 👋, I'm Quang Nhat</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=440&lines=👨‍💻+Student+at+HUST;📚+Major:+DSAI" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=440&lines=Student+at+HUST;Major:+DSAI"
+    alt="Typing SVG: Student at HUST — Major: DSAI"
+  />
 </p>
 
 ## 👨‍🎓 About Me
@@ -34,4 +37,3 @@
 <!-- - 💼 LinkedIn: *(optional if you have one)* -->
 
 _Thanks for stopping by! ⭐ Don't forget to check out my repos and blog!_
-
