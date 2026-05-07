@@ -12,7 +12,7 @@
 - 🎓 I'm a 3rd-year student at **Hanoi University of Science and Technology (HUST)**
 - 📘 My major is **Data Science and Artificial Intelligence (DSAI)**
 - 🤖 Currently diving deeper into **Machine Learning**, **Deep Learning** and **Natural Language Processing**
-- 📝 I occasionally write about what I’m learning on my [**personal blog**](https://votaquangnhat.github.io/). Feel free to check it out!
+<!-- - 📝 I occasionally write about what I’m learning on my [**personal blog**](https://votaquangnhat.github.io/). Feel free to check it out! -->
 
 ## 🚀 Technologies & Tools
 
@@ -23,12 +23,6 @@
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=votaquangnhat&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=votaquangnhat&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ## 🌐 Connect with Me
 
