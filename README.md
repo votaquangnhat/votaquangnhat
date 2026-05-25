@@ -30,4 +30,4 @@
 - 💬 Facebook: [facebook.com/votaquangnhat](https://www.facebook.com/votaquangnhat)
 <!-- - 💼 LinkedIn: *(optional if you have one)* -->
 
-_Thanks for stopping by! ⭐ Don't forget to check out my repos and blog!_
+_Thanks for stopping by! ⭐ Don't forget to check out my project-repos!_
